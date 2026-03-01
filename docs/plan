@@ -1,0 +1,38 @@
+# Project Scope Statement
+
+## Project Purpose
+The purpose of this project is to design and publish a professional two-page website reviewing the recently released video game Marathon by Bungie. The website demonstrates foundational web development skills using HTML5 and CSS3 while presenting structured gaming analysis.
+
+## Project Objectives
+- Develop a functional two-page website with consistent navigation.
+- Apply a single external CSS file for unified styling.
+- Present organized review content including gameplay analysis and visuals.
+- Deploy the website using GitHub Pages.
+- Provide supporting project documentation.
+
+## Deliverables
+- index.html (homepage with review content)
+- about.html (project and reviewer information)
+- style.css (external stylesheet)
+- Documentation folder including scope, plan, and retrospective
+- Live website link hosted publicly
+
+## In Scope
+- Static HTML pages
+- Responsive layout using basic CSS
+- Screenshot gallery section
+- Smooth scrolling and sticky navigation
+
+## Out of Scope
+- JavaScript interactivity
+- User comments or login systems
+- Backend functionality
+
+## Constraints
+- Limited to HTML and CSS only
+- Academic timeline
+- Single stylesheet requirement
+
+## Assumptions
+- Users will access the site on modern browsers.
+- Official game promotional materials are publicly accessible.
