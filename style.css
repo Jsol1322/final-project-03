@@ -119,3 +119,17 @@ footer {
 .gameplay-summary ul {
     margin-top: 10px;
 }
+
+.rating-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.rating-gif {
+    width: 200px;
+    border-radius: 10px;
+}
