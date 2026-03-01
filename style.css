@@ -96,3 +96,26 @@ footer {
     border-top: 2px solid #00f5ff;
 }
 
+
+#gameplay h3 {
+    margin-top: 25px;
+    color: #00f5ff;
+    font-weight: 600;
+}
+
+#gameplay p {
+    line-height: 1.7;
+    color: #cccccc;
+}
+
+.gameplay-summary {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgba(0, 245, 255, 0.05);
+    border-left: 3px solid #00f5ff;
+    border-radius: 8px;
+}
+
+.gameplay-summary ul {
+    margin-top: 10px;
+}
