@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Marathon (2026) Game Review | About</title>
+    <title>Marathon Review | About</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -22,8 +22,7 @@
         <p>
             This website was created to provide a structured and thoughtful
             review of the recently released game Marathon. It demonstrates
-            foundational web development skills using HTML and CSS learned in class.
-            This project is for CMPA 
+            foundational web development skills using HTML and CSS.
         </p>
     </section>
 
@@ -39,7 +38,7 @@
 </main>
 
 <footer>
-    <p>© 2026 Marathon Review Site</p>
+    <p>© 2026 Marathon Discussion Board - Solano </p>
 </footer>
 
 </body>
